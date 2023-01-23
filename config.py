@@ -1,0 +1,11 @@
+# python configuration file
+accounts_receivable = '&labelkey=product-banner-accnt-rcvbl'
+advancement = '&labelkey=product-banner-advncmnt'
+banner_document_management = '&labelkey=product-banner-doc-mgmt'
+banner_document_retention = '&labelkey=product-banner-doc-reten'
+finance = '&labelkey=product-banner-finance'
+financial_aid = '&labelkey=product-banner-financial-aid'
+general = '&labelkey=product-banner-general'
+human_resources = '&labelkey=product-banner-hr'
+student = '&labelkey=product-banner-student'
+student_aid = '&labelkey=product-banner-student-aid'

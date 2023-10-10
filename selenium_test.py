@@ -88,6 +88,10 @@ class selenium_webpage():
                 row[i] = item
         return table_data
 
+    def find_buttons(self):
+        buttons = self.page_scrape()
+        buttons = buttons.find_all('button')
+        return buttons
 
 if __name__ == '__main__':
     ellucian_webpage = selenium_webpage()

@@ -1,2 +1,5 @@
 /test.log
 /ellucian_products.csv
+temp/msedgedriver.exe
+__pycache__/selenium_test.cpython-310.pyc
+__pycache__/config.cpython-310.pyc
